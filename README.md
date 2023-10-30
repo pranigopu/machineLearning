@@ -4,4 +4,6 @@ This repository records the lab work done in the machine learning course of my m
 ## Lab sessions
 - Lab 1: Introduction to Python programming
 - Lab 2: Probability theory
-- Lab 3: Linear regression & regularization
+- Assignment 1: Supervised learning
+  - Part 1: Linear regression & regularization
+  - Part 2: Linear classification
