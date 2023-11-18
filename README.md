@@ -6,4 +6,5 @@ This repository records the lab work done in the machine learning course of my m
 - Lab 2: Probability theory
 - Assignment 1: Supervised learning
   - Part 1: Linear regression & regularization
-  - Part 2: Linear classification
+  - Part 2a: Linear classification & logistic regression
+  - Part 2b: Neural networks
