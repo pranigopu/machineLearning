@@ -8,3 +8,5 @@ This repository records the lab work done in the machine learning course of my m
   - Part 1: Linear regression & regularization
   - Part 2a: Linear classification & logistic regression
   - Part 2b: Neural networks
+- Assignment 2: Unsupervised learning
+  - Mixture of Gaussians
