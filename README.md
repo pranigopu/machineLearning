@@ -1,7 +1,7 @@
 # Machine learning
 This repository records the lab work done in the machine learning course of my master's in AI degree.
 
-## Lab sessions
+## Contents
 - Lab 1: Introduction to Python programming
 - Lab 2: Probability theory
 - Assignment 1: Supervised learning
